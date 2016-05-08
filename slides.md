@@ -1,14 +1,14 @@
-# Teaching GIS Programming - A Sustainability Management Perspective
+# Teaching GIS Programming
 
-## By Christy Heaton
+## A Sustainability Management Perspective
 
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
+### By Christy Heaton
 
 
 
-## Master of Geographic Information Systems at the University of Washington
+## Master of Geographic Information Systems
+
+# at the University of Washington
 
 ![alt text](assets/MGIS_Header.PNG "Header")
 ![alt text](assets/MGIS_Banner.PNG "Banner")
@@ -19,25 +19,28 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 # With a sustainability management focus
 
 
-## Curriculum
+## Year One: Core Courses
 
-Year One: Core Courses
+#GIS Problem Solving
 
-GIS Problem Solving
-GIS Data Management
-Principles of GIS Mapping
-Geospatial Data Analysis
-GIS Programming
+#GIS Data Management
+
+#Principles of GIS Mapping
+
+#Geospatial Data Analysis
+
+#GIS Programming
 
 
-## Curriculum
+## Year Two: Concentration Courses
 
-Year Two: Concentration Courses
+# Coastal GIS
 
-Coastal GIS
-GIS and Decision Support
-International Case Studies of GIS for Sustainability Management
-GIS Workshop
+# GIS and Decision Support
+
+# International Case Studies of GIS for Sustainability Management
+
+# GIS Workshop
 
 
 
