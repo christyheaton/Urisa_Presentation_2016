@@ -8,7 +8,7 @@
 
 ## Master of Geographic Information Systems
 
-# at the University of Washington
+## at the University of Washington
 
 ![alt text](assets/MGIS_Header.PNG "Header")
 ![alt text](assets/MGIS_Banner.PNG "Banner")
