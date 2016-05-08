@@ -49,7 +49,7 @@ GIS Workshop
 ![alt text](assets/python.PNG "python")
 
 
-## Python
+# Why Python?
 
 
 ## ArcGIS
@@ -77,19 +77,46 @@ A methodology that provides a design framework and supporting technology to leve
 
 
 
-## Guest Lectures
+# Guest Lectures
+
+
+## The Value of Coding
+
+
+## Version Control
+
+
+## Practical Python for Sustainability Management
 
 
 
-## Discussions
+# Discussions
+
+
+## Raspberry Pi
+
+
+## Machine Learning
+
+
+# R
 
 
 
 ## Assignments
 
 
+# Environmental Scenarios
+
+
 
 ## Final Projects
+
+
+## Draw on themes from previous courses
+
+
+## Example: Tansy Ragweed
 
 
 
@@ -99,4 +126,4 @@ A methodology that provides a design framework and supporting technology to leve
 
 
 
-## Thank you!
+# Thank you!
