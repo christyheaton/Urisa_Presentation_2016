@@ -16,31 +16,31 @@
 
 ## Two year professional Program
 
-# With a sustainability management focus
+### With a sustainability management focus
 
 
 ## Year One: Core Courses
 
-#GIS Problem Solving
+### GIS Problem Solving
 
-#GIS Data Management
+### GIS Data Management
 
-#Principles of GIS Mapping
+### Principles of GIS Mapping
 
-#Geospatial Data Analysis
+### Geospatial Data Analysis
 
-#GIS Programming
+### GIS Programming
 
 
 ## Year Two: Concentration Courses
 
-# Coastal GIS
+### Coastal GIS
 
-# GIS and Decision Support
+### GIS and Decision Support
 
-# International Case Studies of GIS for Sustainability Management
+### International Case Studies of GIS for Sustainability Management
 
-# GIS Workshop
+### GIS Workshop
 
 
 
