@@ -46,13 +46,24 @@ GIS Workshop
 
 ## GIS Programming
 
+![alt text](assets/python.PNG "python")
+
+
+## Python
+
+
+## ArcGIS
+
+
+## QGIS
+
 
 
 ## Steinitz Geodesign Framework
 A methodology that provides a design framework and supporting technology to leverage geographic information, resulting in designs that more closely follow natural systems.
 
 
-## Six key questions used to refine the Geodesign process:
+## Key questions used to refine the Geodesign process:
 
 1. How should the study area be described?
 2. How does the study area function?
@@ -82,9 +93,10 @@ A methodology that provides a design framework and supporting technology to leve
 
 
 
-## That's about it
+## That's about it!
 
-Questions?
+### Questions?
+
 
 
 ## Thank you!
