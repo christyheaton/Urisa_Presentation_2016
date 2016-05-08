@@ -1,7 +1,6 @@
-# The presentation template
+# Teaching GIS Programming - A Sustainability Management Perspective
 
-## MaptimeCalgary
-This is the first slide.
+## By Christy Heaton
 
 _Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -9,14 +8,40 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-## Follow along
-These slides are created with Reveal.js + Markdown.
+## Master of Geographic Information Systems at the University of Washington
 
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
+![alt text](assets/MGIS_Header.PNG "Header")
+![alt text](assets/MGIS_Banner.PNG "Banner")
+
+
+## Two year professional Program
+
+# With a sustainability management focus
+
+
+## Curriculum
+
+Year One: Core Courses
+
+GIS Problem Solving
+GIS Data Management
+Principles of GIS Mapping
+Geospatial Data Analysis
+GIS Programming
+
+
+## Curriculum
+
+Year Two: Concentration Courses
+
+Coastal GIS
+GIS and Decision Support
+International Case Studies of GIS for Sustainability Management
+GIS Workshop
 
 
 
-## This is a new slide
+## GIS Programming
 Create these by placing 3 line-breaks in the markdown source.
 
 _From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
@@ -24,14 +49,15 @@ _From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="frag
 _Try `DOWN`._ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
-## This is a vertical-slide
+
+## Steinitz Geodesign Workflow
 You make these by placing 2 line-breaks within the source.
 
 Vertical-slides are good for drilling in to topics. Think of it as a _details_ slide. If you're short on time, you can skip past these slides by moving `RIGHT`.
 
 
 
-## You can put images in a slide
+## Guest Lectures
 
 ![alt text](assets/logo.png "Logo Title Text 1")
 
@@ -40,7 +66,7 @@ Vertical-slides are good for drilling in to topics. Think of it as a _details_ s
 
 
 <!-- .slide: data-background="MintCream" -->
-## Style
+## Discussions
 
 You can style each slide individually.
 
@@ -54,7 +80,7 @@ You can style each slide individually.
 
 
 
-## Hey, it even supports code!
+## Assignments
 
 ```
 var marker = L.marker([49, 5.49]).addTo(map);
@@ -69,7 +95,7 @@ polygon.bindPopup("I am a polygon.");
 
 
 
-## Want to see something _really_ crazy?
+## Final Projects
 
 Press `S` to check out the 'Presentation Mode'.
 
