@@ -50,7 +50,17 @@ GIS Workshop
 
 ## GIS Programming
 
-![alt text](assets/python.PNG "python")
+```python
+import arcpy
+from arcpy import #!/usr/bin/env python
+
+#allow overwriting
+env.overwriteOutput = True
+
+#set workspace
+env.workspace = r'C:/EsriPress/Python/Data'
+print s
+```
 
 
 # Why Python?
@@ -60,6 +70,20 @@ GIS Workshop
 
 
 ## QGIS
+
+
+
+# Sustainability Management?
+
+
+## Focus on the Environment
+
+ needs of present
+ future generations
+ the economy
+
+
+## Project Management
 
 
 
