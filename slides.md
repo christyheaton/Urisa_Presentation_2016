@@ -25,26 +25,26 @@
 
 ## Year One: Core Courses
 
-GIS Problem Solving
+_GIS Problem Solving_<!-- .element: class="fragment" data-fragment-index="0" -->
 
-GIS Data Management
+_GIS Data Management_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-Principles of GIS Mapping
+_Principles of GIS Mapping_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-Geospatial Data Analysis
+_Geospatial Data Analysis_<!-- .element: class="fragment" data-fragment-index="3" -->
 
-GIS Programming
+_GIS Programming_<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 ## Year Two: Concentration Courses
 
-Coastal GIS
+_Coastal GIS_<!-- .element: class="fragment" data-fragment-index="0" -->
 
-GIS and Decision Support
+_GIS and Decision Support_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-International Case Studies of GIS for Sustainability Management
+_International Case Studies of GIS for Sustainability Management_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-GIS Workshop
+_GIS Workshop_<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
@@ -59,7 +59,6 @@ env.overwriteOutput = True
 
 #set workspace
 env.workspace = r'C:/EsriPress/Python/Data'
-print s
 ```
 
 
