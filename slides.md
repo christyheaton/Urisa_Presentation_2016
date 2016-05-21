@@ -125,6 +125,7 @@ _Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 ![alt text](assets/QgisPython.PNG "QGIS")
 
 
+
 # How we do it
 
 
@@ -163,13 +164,13 @@ _![alt text](assets/landslide.PNG "Landslide")_<!-- .element: class="fragment" d
 
 ## Discussions
 
-_R_<!-- .element: class="fragment" data-fragment-index="0" -->
+_Raspberry Pi_<!-- .element: class="fragment" data-fragment-index="0" -->
 
-_Raspberry Pi_<!-- .element: class="fragment" data-fragment-index="1" -->
+_R_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 _Machine Learning_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_NumPy and SciPy Modules_<!-- .element: class="fragment" data-fragment-index="2" -->
+_NumPy and SciPy Modules_<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Final Projects
