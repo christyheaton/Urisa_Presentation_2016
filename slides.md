@@ -4,7 +4,7 @@
 
 
 
-## Master of Geographic Information Systems
+# Master of Geographic Information Systems
 
 ## at the University of Washington
 
@@ -14,9 +14,9 @@
 ## Two year professional Program
 
 
-## Online*
+## Online
 
-_*With three intensive on-site sessions_<!-- .element: class="fragment" data-fragment-index="0" -->
+With three intensive on-site sessions
 
 
 ## With a Sustainability Management Focus
@@ -85,7 +85,7 @@ env.workspace = r'C:/EsriPress/Python/Data'
 ```
 
 
-# Why Python?
+## Why Python?
 
 _Free and open source_<!-- .element: class="fragment" data-fragment-index="0" -->
 
@@ -186,10 +186,11 @@ _Focus on the Environment_<!-- .element: class="fragment" data-fragment-index="2
 
 
 ![alt text](assets/tansy.jpg "Tansy")
+
 Source: [Oregon State University](http://oregonstate.edu/dept/nursery-weeds/weedspeciespage/tansy_ragwort/flower_250.jpg)
 
 
-## Tansy Ragword
+## Tansy Ragwort
 
 _Invasive biennial weed from Europe most often found in pastures and along roads and trails_<!-- .element: class="fragment" data-fragment-index="0" -->
 
@@ -246,4 +247,4 @@ _Create a map for each year_<!-- .element: class="fragment" data-fragment-index=
 
 Contact: heatonc@uw.edu
 
-christyheaton.github.io
+[christyheaton.github.io](christyheaton.github.io)
