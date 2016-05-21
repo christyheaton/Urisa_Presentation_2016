@@ -48,21 +48,6 @@ _GIS Workshop_<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-
-_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
-```
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-```
-
-
-
 ## GIS Programming
 
 ```python
@@ -79,40 +64,72 @@ env.workspace = r'C:/EsriPress/Python/Data'
 
 # Why Python?
 
+_Free and open source_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Relatively easy to learn_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Highly portable between different Operating Systems and architectures_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Built in to most major GIS Software producers to interface with their applications_<!-- .element: class="fragment" data-fragment-index="3" -->
+
 
 ## ArcGIS
+
+_Field calculator_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Labels_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Python window_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Create your own tools in ArcToolbox_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+## ArcGIS
+
+![alt text](assets/ArcgisPython.PNG "ArcGIS")
 
 
 ## QGIS
 
+_Python window_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
-# Sustainability Management?
+## QGIS
+
+![alt text](assets/QgisPython.PNG "QGIS")
+
+
+
+# Sustainability Management
 
 
 ## Focus on the Environment
 
- needs of present
- future generations
- the economy
+_needs of present_<!-- .element: class="fragment" data-fragment-index="0" -->
+_future generations_<!-- .element: class="fragment" data-fragment-index="1" -->
+_the economy_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 ## Project Management
 
+initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria
 
 
 ## Steinitz Geodesign Framework
+
 A methodology that provides a design framework and supporting technology to leverage geographic information, resulting in designs that more closely follow natural systems.
 
 
 ## Key questions used to refine the Geodesign process:
 
-1. How should the study area be described?
-2. How does the study area function?
-3. Is the current study area working well?
-4. How might the study area be altered?
-5. What difference might the changes cause?
-6. How should the study area be changed?
+_1. How should the study area be described?_<!-- .element: class="fragment" data-fragment-index="0" -->
+_2. How does the study area function?_<!-- .element: class="fragment" data-fragment-index="1" -->
+_3. Is the current study area working well?_<!-- .element: class="fragment" data-fragment-index="2" -->
+_4. How might the study area be altered?_<!-- .element: class="fragment" data-fragment-index="3" -->
+_5. What difference might the changes cause?_<!-- .element: class="fragment" data-fragment-index="4" -->
+_6. How should the study area be changed?_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 ![alt text](assets/steinitz.jpg "Geodesign")
@@ -129,19 +146,6 @@ A methodology that provides a design framework and supporting technology to leve
 
 
 ## Practical Python for Sustainability Management
-
-
-
-# Discussions
-
-
-## Raspberry Pi
-
-
-## Machine Learning
-
-
-# R
 
 
 
