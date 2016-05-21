@@ -2,7 +2,7 @@
 
 ## A Sustainability Management Perspective
 
-### By Christy Heaton
+By Christy Heaton
 
 
 
