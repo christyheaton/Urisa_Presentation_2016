@@ -125,6 +125,8 @@ _Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 ![alt text](assets/QgisPython.PNG "QGIS")
 
 
+# How we do it
+
 
 ## Steinitz Geodesign Framework
 
@@ -149,19 +151,38 @@ _6. How should the study area be changed?_<!-- .element: class="fragment" data-f
 ![alt text](assets/steinitz.jpg "Geodesign")
 
 
+## Guest Lectures
 
-## How we do it
-
-_Guest Lectures_<!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Assignments_<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Discussions_<!-- .element: class="fragment" data-fragment-index="2" -->
-
-_Final Projects_<!-- .element: class="fragment" data-fragment-index="3" -->
+_![alt text](assets/InVEST.PNG "InVEST")_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
-## Example: Tansy Ragweed
+## Assignments
+
+_![alt text](assets/landslide.PNG "Landslide")_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+## Discussions
+
+_R_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Raspberry Pi_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Machine Learning_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_NumPy and SciPy Modules_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+## Final Projects
+
+_Use a project from a previous course and Python-ize it_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Build ArcGIS Tools_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Focus on the Environment_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+# Example: Tansy Ragweed
 
 
 
