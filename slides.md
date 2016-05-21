@@ -71,7 +71,7 @@ _GIS Workshop_<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
-## GIS Programming
+# GIS Programming
 
 ```python
 import arcpy
