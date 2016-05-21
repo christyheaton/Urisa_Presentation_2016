@@ -17,7 +17,9 @@ By Christy Heaton
 ## Two year professional Program
 
 
-## Online
+## Online*
+
+_*With three intensive on-site sessions_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 ## With a Sustainability Management Focus
@@ -107,28 +109,35 @@ _Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ## Focus on the Environment
 
-_needs of present_<!-- .element: class="fragment" data-fragment-index="0" -->
-_future generations_<!-- .element: class="fragment" data-fragment-index="1" -->
-_the economy_<!-- .element: class="fragment" data-fragment-index="2" -->
+_Needs of the Present_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Future Generations_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_The Economy_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 ## Project Management
 
-initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria
+_Initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 ## Steinitz Geodesign Framework
 
-A methodology that provides a design framework and supporting technology to leverage geographic information, resulting in designs that more closely follow natural systems.
+_A methodology that provides a design framework and supporting technology to leverage geographic information, resulting in designs that more closely follow natural systems._<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 ## Key questions used to refine the Geodesign process:
 
 _1. How should the study area be described?_<!-- .element: class="fragment" data-fragment-index="0" -->
+
 _2. How does the study area function?_<!-- .element: class="fragment" data-fragment-index="1" -->
+
 _3. Is the current study area working well?_<!-- .element: class="fragment" data-fragment-index="2" -->
+
 _4. How might the study area be altered?_<!-- .element: class="fragment" data-fragment-index="3" -->
+
 _5. What difference might the changes cause?_<!-- .element: class="fragment" data-fragment-index="4" -->
+
 _6. How should the study area be changed?_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
@@ -136,39 +145,22 @@ _6. How should the study area be changed?_<!-- .element: class="fragment" data-f
 
 
 
-# Guest Lectures
+## How we do it
 
+_Guest Lectures_<!-- .element: class="fragment" data-fragment-index="0" -->
 
-## The Value of Coding
+_Assignments_<!-- .element: class="fragment" data-fragment-index="1" -->
 
+_Discussions_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-## Version Control
-
-
-## Practical Python for Sustainability Management
-
-
-
-## Assignments
-
-
-# Environmental Scenarios
-
-
-
-## Final Projects
-
-
-## Draw on themes from previous courses
+_Final Projects_<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Example: Tansy Ragweed
 
 
 
-## That's about it!
-
-### Questions?
+# Questions?
 
 
 
