@@ -25,6 +25,28 @@ _*With three intensive on-site sessions_<!-- .element: class="fragment" data-fra
 ## With a Sustainability Management Focus
 
 
+
+# Sustainability Management
+
+
+## Focus on the Environment
+
+_Needs of the Present_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Future Generations_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_The Economy_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+## Project Management
+
+_Initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+
+# Curriculum
+
+
 ## Year One: Core Courses
 
 _GIS Problem Solving_<!-- .element: class="fragment" data-fragment-index="0" -->
@@ -44,7 +66,7 @@ _Coastal GIS_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 _GIS and Decision Support_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_International Case Studies of GIS for Sustainability Management_<!-- .element: class="fragment" data-fragment-index="2" -->
+_International Case Studies_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 _GIS Workshop_<!-- .element: class="fragment" data-fragment-index="3" -->
 
@@ -102,23 +124,6 @@ _Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ![alt text](assets/QgisPython.PNG "QGIS")
 
-
-
-# Sustainability Management
-
-
-## Focus on the Environment
-
-_Needs of the Present_<!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Future Generations_<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_The Economy_<!-- .element: class="fragment" data-fragment-index="2" -->
-
-
-## Project Management
-
-_Initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 ## Steinitz Geodesign Framework
