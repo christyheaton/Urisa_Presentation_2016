@@ -2,8 +2,6 @@
 
 ## A Sustainability Management Perspective
 
-By Christy Heaton
-
 
 
 ## Master of Geographic Information Systems
@@ -11,7 +9,6 @@ By Christy Heaton
 ## at the University of Washington
 
 ![alt text](assets/MGIS_Header.PNG "Header")
-![alt text](assets/MGIS_Banner.PNG "Banner")
 
 
 ## Two year professional Program
@@ -23,6 +20,8 @@ _*With three intensive on-site sessions_<!-- .element: class="fragment" data-fra
 
 
 ## With a Sustainability Management Focus
+
+![alt text](assets/MGIS_Banner.PNG "Banner")
 
 
 
@@ -183,7 +182,59 @@ _Focus on the Environment_<!-- .element: class="fragment" data-fragment-index="2
 
 
 
-# Example: Tansy Ragweed
+# Example: Location Quotient of Tansy Ragwort
+
+
+![alt text](assets/tansy.jpg "Tansy")
+Source: [Oregon State University](http://oregonstate.edu/dept/nursery-weeds/weedspeciespage/tansy_ragwort/flower_250.jpg)
+
+
+## Tansy Ragword
+
+_Invasive biennial weed from Europe most often found in pastures and along roads and trails_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Toxic to animals_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Widespread in the Pacific Northwest_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Source: [King County](http://www.kingcounty.gov/environment/animals-and-plants/noxious-weeds/weed-identification/tansy-ragwort.aspx)_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+## Location Quotient
+
+_Analytical Statistic_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Quantifies how concentrated a particular group is in a region as compared to the whole_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Useful for determining what makes regions "unique"_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+## Steps for previous project
+
+_Create a subset of all tansy ragwort data between the years of 2005 and 2013_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Conduct a spatial join between the weed data and Zip Codes_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Calculate the location quotients for each year by Zip Code_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Join the resulting tables to Zip Codes_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_Create a map for each year_<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+## Tool
+
+![alt text](assets/locationquotient.PNG "Location Quotient")
+
+
+## Tool
+
+![alt text](assets/weeds.PNG "Weeds")
+
+
+## Final Map
+
+![alt text](assets/finalmap.PNG "Final Map")
 
 
 
@@ -192,3 +243,7 @@ _Focus on the Environment_<!-- .element: class="fragment" data-fragment-index="2
 
 
 # Thank you!
+
+Contact: heatonc@uw.edu
+
+christyheaton.github.io
