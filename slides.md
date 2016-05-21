@@ -20,7 +20,7 @@
 ## Online
 
 
-## With a sustainability management focus
+## With a Sustainability Management Focus
 
 
 ## Year One: Core Courses
@@ -45,6 +45,21 @@ _GIS and Decision Support_<!-- .element: class="fragment" data-fragment-index="1
 _International Case Studies of GIS for Sustainability Management_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 _GIS Workshop_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+
+<!-- .slide: data-background="MintCream" -->
+## Style
+
+You can style each slide individually.
+
+_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
+```
+<!-- .slide: data-background="MintCream" -->
+## Style
+
+You can style each slide individually.
+```
 
 
 
