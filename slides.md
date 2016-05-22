@@ -1,4 +1,4 @@
-# Teaching GIS Programming
+# Teaching GIS
 
 ## A Sustainability Management Perspective
 
@@ -132,6 +132,10 @@ _Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 _A methodology that provides a design framework and supporting technology to leverage geographic information, resulting in designs that more closely follow natural systems._<!-- .element: class="fragment" data-fragment-index="0" -->
 
+_GIS_<!-- .element: class="fragment" data-fragment-index="1" -->
+_Urban Planning_<!-- .element: class="fragment" data-fragment-index="2" -->
+_Natural Systems_<!-- .element: class="fragment" data-fragment-index="3" -->
+
 
 ## Key questions used to refine the Geodesign process:
 
@@ -167,9 +171,7 @@ _Raspberry Pi_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 _R_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Machine Learning_<!-- .element: class="fragment" data-fragment-index="2" -->
-
-_NumPy and SciPy Modules_<!-- .element: class="fragment" data-fragment-index="3" -->
+_NumPy and SciPy Modules_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 ## Final Projects
