@@ -132,9 +132,11 @@ _Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 _A methodology that provides a design framework and supporting technology to leverage geographic information, resulting in designs that more closely follow natural systems._<!-- .element: class="fragment" data-fragment-index="0" -->
 
-_1. GIS_<!-- .element: class="fragment" data-fragment-index="1" -->
-_2. Urban Planning_<!-- .element: class="fragment" data-fragment-index="2" -->
-_3. Natural Systems_<!-- .element: class="fragment" data-fragment-index="3" -->
+_GIS_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Urban Planning_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Natural Systems_<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Key questions used to refine the Geodesign process:
