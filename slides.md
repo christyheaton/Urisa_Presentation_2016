@@ -19,7 +19,7 @@
 With three intensive on-site sessions
 
 
-## With a Sustainability Management Focus
+## Sustainability Management Focus
 
 ![alt text](assets/MGIS_Banner.PNG "Banner")
 
@@ -28,7 +28,7 @@ With three intensive on-site sessions
 # Sustainability Management
 
 
-## Focus on the Environment
+## Sustainability: Focus on the Environment
 
 _Needs of the Present_<!-- .element: class="fragment" data-fragment-index="0" -->
 
@@ -44,23 +44,6 @@ _Project Management_<!-- .element: class="fragment" data-fragment-index="0" -->
 _![alt text](assets/Project_Management.png "Project Management")_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 _Source: [Wikipedia](https://en.wikipedia.org/wiki/Project_management)_<!-- .element: class="fragment" data-fragment-index="1" -->
-
-
-## Project Management
-
-_Initiating_<!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Planning_<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Executing_<!-- .element: class="fragment" data-fragment-index="2" -->
-
-_Controlling_<!-- .element: class="fragment" data-fragment-index="3" -->
-
-_Closing_<!-- .element: class="fragment" data-fragment-index="4" -->
-
-_Closing the work of a team_<!-- .element: class="fragment" data-fragment-index="5" -->
-
-_To achieve specific goals and meet specific success criteria_<!-- .element: class="fragment" data-fragment-index="6" -->
 
 
 
