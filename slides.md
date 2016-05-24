@@ -37,13 +37,11 @@ _Future Generations_<!-- .element: class="fragment" data-fragment-index="1" -->
 _The Economy_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
-## Management
+## Management: Project Management
 
-_Project Management_<!-- .element: class="fragment" data-fragment-index="0" -->
+_![alt text](assets/Project_Management.png "Project Management")_<!-- .element: class="fragment" data-fragment-index="0" -->
 
-_![alt text](assets/Project_Management.png "Project Management")_<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Source: [Wikipedia](https://en.wikipedia.org/wiki/Project_management)_<!-- .element: class="fragment" data-fragment-index="1" -->
+_Source: [Wikipedia](https://en.wikipedia.org/wiki/Project_management)_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
