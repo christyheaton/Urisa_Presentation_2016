@@ -37,9 +37,29 @@ _Future Generations_<!-- .element: class="fragment" data-fragment-index="1" -->
 _The Economy_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
+## Management
+
+_Project Management_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_![alt text](assets/Project_Management.png "Project Management")_<!-- .element: class="fragment" data-fragment-index="1" -->
+_Source: [Wikipedia](https://en.wikipedia.org/wiki/Project_management)_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
 ## Project Management
 
-_Initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria_<!-- .element: class="fragment" data-fragment-index="0" -->
+_Initiating_<!-- .element: class="fragment" data-fragment-index="0" -->
+
+_Planning_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Executing_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Controlling_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_Closing_<!-- .element: class="fragment" data-fragment-index="4" -->
+
+_Closing the work of a team_<!-- .element: class="fragment" data-fragment-index="5" -->
+
+_To achieve specific goals and meet specific success criteria_<!-- .element: class="fragment" data-fragment-index="6" -->
 
 
 
@@ -131,6 +151,9 @@ _Python modules_<!-- .element: class="fragment" data-fragment-index="1" -->
 ## Steinitz Geodesign Framework
 
 _A methodology that provides a design framework and supporting technology to leverage geographic information, resulting in designs that more closely follow natural systems._<!-- .element: class="fragment" data-fragment-index="0" -->
+
+
+## In Other Words
 
 _GIS_<!-- .element: class="fragment" data-fragment-index="1" -->
 
