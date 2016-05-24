@@ -42,6 +42,7 @@ _The Economy_<!-- .element: class="fragment" data-fragment-index="2" -->
 _Project Management_<!-- .element: class="fragment" data-fragment-index="0" -->
 
 _![alt text](assets/Project_Management.png "Project Management")_<!-- .element: class="fragment" data-fragment-index="1" -->
+
 _Source: [Wikipedia](https://en.wikipedia.org/wiki/Project_management)_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
